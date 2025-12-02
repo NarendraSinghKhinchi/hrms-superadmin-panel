@@ -1,0 +1,42 @@
+export const companies = [
+  {
+    id: 1,
+    name: "Techify Solutions",
+    city: "Bangalore",
+    industry: "IT Services",
+    status: "Pending",
+    registeredOn: "2024-01-14",
+  },
+  {
+    id: 2,
+    name: "HealthPlus",
+    city: "Mumbai",
+    industry: "Healthcare",
+    status: "Approved",
+    registeredOn: "2024-01-10",
+  },
+  {
+    id: 3,
+    name: "Finexa Corp",
+    city: "Delhi",
+    industry: "Finance",
+    status: "Approved",
+    registeredOn: "2024-01-07",
+  },
+  {
+    id: 4,
+    name: "GreenFarm Agro",
+    city: "Pune",
+    industry: "Agriculture",
+    status: "Pending",
+    registeredOn: "2024-01-05",
+  },
+  {
+    id: 5,
+    name: "UrbanStyle Pvt Ltd",
+    city: "Chennai",
+    industry: "E-commerce",
+    status: "Approved",
+    registeredOn: "2024-01-02",
+  },
+];
