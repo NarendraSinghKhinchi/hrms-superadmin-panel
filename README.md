@@ -114,3 +114,4 @@ cd hrms-superadmin-panel
 - No backend/database integration
 
 ### Live Demo
+https://hrms-superadmin-panel.vercel.app/
